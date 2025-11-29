@@ -1,1 +1,1 @@
-aa
+Here I'll post the things of code needed for the subject Quantum Computing of the master in Quantum Technologies of the CSIC / UIMP
